@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://ply.web.id/docs">Documentation</a> |
+  <a href="https://github.com/plygo/ply/tree/main/examples">Examples</a> |
   <a href="https://github.com/plygo/ply">Framework</a> |
-  <a href="https://github.com/plygo/website">Website source</a> |
   <a href="https://github.com/plygo/ply/releases">Releases</a>
 </p>
 
@@ -23,11 +23,3 @@
 
 Ply provides a fast router, middleware-first handlers, sessions, WebSocket
 helpers, OpenAPI generation, OAuth2, OpenID Connect, and gRPC gateway support.
-
-## Links
-
-- Documentation: https://ply.web.id/docs
-- Examples: https://github.com/plygo/ply/tree/main/examples
-- Contributing: https://github.com/plygo/ply/blob/main/CONTRIBUTING.md
-- Issues: https://github.com/plygo/ply/issues
-- License: MIT
