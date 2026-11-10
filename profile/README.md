@@ -1,14 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plygo/ply/main/assets/ply-lockup-dark-2000w.png">
-    <img src="https://raw.githubusercontent.com/plygo/ply/main/assets/ply-lockup-2000w.png" alt="Ply" width="720">
+    <img src="https://raw.githubusercontent.com/plygo/ply/main/assets/ply-lockup-2000w.png" alt="Ply" width="640">
   </picture>
 </p>
 
-<h1 align="center">Ply</h1>
-
 <p align="center">
-  A thin, zero-allocation HTTP layer for Go, built on fasthttp.
+  One ply over fasthttp. A lightweight Go web framework for building HTTP services.
 </p>
 
 <p align="center">
