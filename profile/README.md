@@ -18,15 +18,8 @@
 
 ## Quick start
 
-```bash
-go get github.com/plygo/ply
-```
-
-Scaffold a new project:
-
-```bash
-npx create-ply@latest
-```
+- Install: `go get github.com/plygo/ply`
+- Scaffold: `npx create-ply@latest`
 
 Ply provides a fast router, middleware-first handlers, sessions, WebSocket
 helpers, OpenAPI generation, OAuth2, OpenID Connect, and gRPC gateway support.
